@@ -12,6 +12,8 @@
     - Python
     - Angular
     - Java
+    - Javascript
+    - SQL
     - AWS
     - Apache Spark
     - Natural Language Processing
