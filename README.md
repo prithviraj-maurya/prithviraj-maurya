@@ -6,6 +6,7 @@
     - pmaurya196@gmail.com
     - https://www.linkedin.com/prithviraj-maurya
     - https://prithviraj-maurya.github.io/portfolio-site/
+    - https://www.kaggle.com/prithviraj7387
 - Skills
     - Machine Learning
     - Deep Learning
