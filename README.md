@@ -1,9 +1,3 @@
-Below is a clean, cohesive, and portfolio-ready GitHub README that accurately reflects your current Amazon role (2024–Present), your LLM depth, and your end-to-end ML + MLOps strength—without sounding like a resume dump. It’s written to appeal to recruiters, hiring managers, and senior ML engineers scanning your GitHub.
-
-You can copy-paste this directly into README.md.
-
-⸻
-
 👋 Hi, I’m Prithviraj Maurya
 
 Software Engineer – AI/ML @ Amazon
