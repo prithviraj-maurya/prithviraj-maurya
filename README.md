@@ -78,6 +78,7 @@ Computer Vision | Transformers | PyTorch | Hugging Face | Gradio
 	•	Developed an interactive Gradio UI and deployed the application on Hugging Face Spaces for public access.
 
 🔗 Live Demo: https://huggingface.co/spaces/prithviraj-maurya/food-vision-big
+
 📓 Key Notebooks:
 	•	08_pytorch_paper_replicating.ipynb — ViT paper replication
 	•	09_pytorch_model_deployment.ipynb — Model training & deployment
@@ -114,7 +115,7 @@ Other: Elasticsearch, Hadoop, Data Visualization, Regression, Clustering, Anomal
 ## 📫 Let’s Connect
 	•	🔗 LinkedIn: https://www.linkedin.com/in/prithviraj-maurya
 	•	📧 Email: pmaurya196@gmail.com
-	•	🧠 Kaggle: https://www.kaggle.com/
+	•	🧠 Kaggle: https://www.kaggle.com/prithviraj7387
 	•	🧑‍💻 GitHub: You’re already here 🙂
 
 ⸻
