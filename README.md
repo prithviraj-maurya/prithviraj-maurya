@@ -1,4 +1,4 @@
-👋 Hi, I’m Prithviraj Maurya
+# 👋 Hi, I’m Prithviraj Maurya
 
 Software Engineer – AI/ML @ Amazon
 Ex–Thomson Reuters | Ex–Morgan Stanley
@@ -8,7 +8,7 @@ I build production-grade AI/ML systems—from data and models to infrastructure 
 
 ⸻
 
-🚀 What I Do
+## 🚀 What I Do
 	•	Design and deploy end-to-end ML & LLM systems at scale
 	•	Build multi-modal, agentic AI workflows for real business problems
 	•	Optimize model performance, cost, and latency in production
@@ -16,9 +16,9 @@ I build production-grade AI/ML systems—from data and models to infrastructure 
 
 ⸻
 
-💼 Experience
+## 💼 Experience
 
-🧠 Software Engineer – AI/ML
+### 🧠 Software Engineer – AI/ML
 
 Amazon (Social Ads Team) | Aug 2024 – Present
 Seattle, WA
@@ -29,7 +29,7 @@ Seattle, WA
 
 ⸻
 
-⚖️ Senior Machine Learning Engineer
+### ⚖️ Senior Machine Learning Engineer
 
 Thomson Reuters | Sep 2023 – Aug 2024
 Remote
@@ -40,7 +40,7 @@ Remote
 
 ⸻
 
-🧑‍💻 Senior Software Engineer
+### 🧑‍💻 Senior Software Engineer
 
 Morgan Stanley | Aug 2020 – Jul 2022
 Bengaluru, India
@@ -51,9 +51,9 @@ Bengaluru, India
 
 ⸻
 
-🧪 Selected Projects
+## 🧪 Selected Projects
 
-🗣️ Voice Assistants — Converting the Point of View
+### 🗣️ Voice Assistants — Converting the Point of View
 
 Research | NLP | Transformers
 	•	Built a hybrid rule-based + ML system to convert the point of view (POV) of voice assistant messages across multiple languages (Alexa, Siri, Google Assistant).
@@ -61,7 +61,7 @@ Research | NLP | Transformers
 	•	Awarded a State-of-the-Art (SOTA) badge on Papers With Code for best-reported results.
 	•	Published research and open-sourced the work, demonstrating strong applied NLP and research rigor.
 
-🍽️ Vision Transformer Replication & Food Vision Big (Deployed)
+### 🍽️ Vision Transformer Replication & Food Vision Big (Deployed)
 
 Computer Vision | Transformers | PyTorch | Hugging Face | Gradio
 	•	Replicated the seminal paper “An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale” from first principles to deeply understand the Vision Transformer (ViT) architecture.
@@ -71,7 +71,7 @@ Computer Vision | Transformers | PyTorch | Hugging Face | Gradio
 	•	Transformer encoder blocks with Multi-Head Self-Attention (MSA) and MLP layers
 	•	Validated correctness by training on the Pizza–Steak–Sushi dataset, reproducing the paper’s core learning behavior.
 
-🚀 Food Vision Big — Production-Ready Image Classifier
+### 🚀 Food Vision Big — Production-Ready Image Classifier
 	•	Built and deployed Food Vision Big, a real-world food image classifier supporting 101 food categories using the Food101 dataset (101K images).
 	•	Leveraged EfficientNetV2-S with transfer learning for high accuracy and efficient inference.
 	•	Trained locally on NVIDIA RTX 4060, demonstrating large-scale CV training on consumer hardware.
@@ -84,14 +84,14 @@ Computer Vision | Transformers | PyTorch | Hugging Face | Gradio
 
 ⸻
 
-🎓 Education
+## 🎓 Education
 
 Master of Science in Data Science
 Indiana University Bloomington | Aug 2022 – May 2024
 
 ⸻
 
-🧰 Technical Skills
+## 🧰 Technical Skills
 
 Languages: Python, Java, SQL, R
 ML / AI: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LLMs, Generative AI, NLP/NLU
@@ -102,7 +102,7 @@ Other: Elasticsearch, Hadoop, Data Visualization, Regression, Clustering, Anomal
 
 ⸻
 
-🏆 Achievements
+## 🏆 Achievements
 	•	🏅 AWS Certified Developer – Associate
 	•	🧪 Kaggle Expert
 	•	📚 PyTorch Docathon Contributor
@@ -111,7 +111,7 @@ Other: Elasticsearch, Hadoop, Data Visualization, Regression, Clustering, Anomal
 
 ⸻
 
-📫 Let’s Connect
+## 📫 Let’s Connect
 	•	🔗 LinkedIn: https://www.linkedin.com/in/prithviraj-maurya
 	•	📧 Email: pmaurya196@gmail.com
 	•	🧠 Kaggle: https://www.kaggle.com/
@@ -122,11 +122,3 @@ Other: Elasticsearch, Hadoop, Data Visualization, Regression, Clustering, Anomal
 ⭐️ I enjoy turning complex ML problems into scalable, elegant systems—always excited to build impactful AI.
 
 ⸻
-
-If you want, next I can:
-	•	🔥 Make this more recruiter-facing or more research-heavy
-	•	📌 Add repo-level READMEs for each flagship project
-	•	🧾 Align this README tightly with FAANG / Staff MLE expectations
-	•	🎯 Optimize it for GitHub profile SEO
-
-Just tell me.
