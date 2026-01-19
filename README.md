@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prithviraj Maurya
 
-Software Engineer – AI/ML @ Amazon
+AI/ML @ Amazon
 Ex–Thomson Reuters | Ex–Morgan Stanley
 Senior Machine Learning Engineer | Generative AI & LLM Systems
 
